@@ -1,0 +1,1 @@
+This repo is a folder of files that contain vanilla javascript practice problem from Edabit. 
