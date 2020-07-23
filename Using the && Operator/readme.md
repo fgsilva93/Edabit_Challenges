@@ -1,3 +1,4 @@
+## Level: Very Easy
 JavaScript has a logical operator `&&`. The `&&` operator takes two boolean values, and returns `true` if both values are `true`.
 
 Consider `a && b`:
