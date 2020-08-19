@@ -1,4 +1,4 @@
-## Level: Ver Easy
+## Level: Very Easy
 Create a function that returns true if the first array can be nested inside the second.
 
 * arr1 can be nested inside arr2 if:

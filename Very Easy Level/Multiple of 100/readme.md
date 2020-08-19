@@ -1,4 +1,4 @@
-## Level: Very Eassy
+## Level: Very Easy
 
 Create a function that takes an integer and return `true` if it's divisible by 100, otherwise return `false`.
 
